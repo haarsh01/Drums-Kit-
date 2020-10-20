@@ -1,1 +1,2 @@
-# Drums-Kit-
+# drum-kit
+basic drum kit
